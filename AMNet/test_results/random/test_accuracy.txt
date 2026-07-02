@@ -1,0 +1,7 @@
+Dataset: random
+Mean Accuracy: 0.9554
+
+Hits@1:  0.7893
+Hits@3:  0.9650
+Hits@5:  0.9893
+Hits@10: 0.9982

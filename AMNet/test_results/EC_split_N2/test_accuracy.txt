@@ -1,0 +1,7 @@
+Dataset: EC_split_N2
+Mean Accuracy: 0.7013
+
+Hits@1:  0.4889
+Hits@3:  0.8411
+Hits@5:  0.9412
+Hits@10: 0.9909
