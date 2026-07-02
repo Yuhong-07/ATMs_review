@@ -24,7 +24,7 @@ DATA = {
             "Random": [77.93, 78.91, 77.17],
             "EC-number": [48.89, 71.10, 71.57],
         },
-        "ylabel": "Top 1% (%)",
+        "ylabel": "Top-1 (%)",
         "filename": "top1_bar",
         "legend": False,
     },
